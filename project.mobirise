@@ -46,13 +46,26 @@
     "imageResize": true,
     "uniqCompNum": 1,
     "versionPublish": "6.0.1",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "chatbutton": {},
+    "favicon": "@PROJECT_PATH@/assets/images/01-app-icons.png-128x128.png",
+    "mbrsiteDomain": "a3kzu9budl",
+    "usedWebp": false,
+    "cssOptimize": false,
+    "lazyLoad": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "pwa-switcher": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Respaldo Rahs",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
